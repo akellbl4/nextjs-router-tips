@@ -115,36 +115,6 @@ footer {
   margin: 0 auto;
 }
 
-.github {
-  font-size: 0.9em;
-  padding: 0.5em 1em;
-  display: inline-flex;
-  justify-items: center;
-  align-items: center;
-  color: #fff;
-  white-space: nowrap;
-  text-decoration: none;
-  background-color: rgb(31, 41, 55);
-  border-radius: 6px;
-  box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px,
-    rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
-  transition: transform 0.15s ease-out;
-  will-change: transform;
-}
-
-.github:active {
-  transform: scale(0.98);
-}
-
-.github:hover,
-.github:visited {
-  color: rgba(255, 255, 255, 0.8);
-}
-
-.github-icon {
-  margin-right: 0.5em;
-}
-
 .alert {
   display: inline-block;
   padding: 1em;
